@@ -137,11 +137,6 @@
 			<artifactId>neo4j-kernel</artifactId>
 			<version>2.1.5</version>
 		</dependency>
-		<dependency>
-			<groupId>com.devpmts.group</groupId>
-			<artifactId>devpmts-spring-util</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 	</dependencies>
 
 	<build>

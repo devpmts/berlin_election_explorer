@@ -20,7 +20,7 @@ import com.devpmts.kolporit.repository.ElectionRepository;
 import com.devpmts.kolporit.repository.ElectionResultRepository;
 import com.devpmts.kolporit.repository.PartyRepository;
 import com.devpmts.kolporit.repository.WahlbezirkRepository;
-import com.devpmts.util.spring.DevpmtsSpringUtil;
+import com.devpmts.util.DevpmtsSpringUtil;
 
 import lombok.extern.slf4j.Slf4j;
 

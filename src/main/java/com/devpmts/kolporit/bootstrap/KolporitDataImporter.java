@@ -1,9 +1,14 @@
 package com.devpmts.kolporit.bootstrap;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.net.URISyntaxException;
+import java.net.URL;
+import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Scanner;
 
 import javax.annotation.PostConstruct;
 
@@ -23,8 +28,7 @@ import com.devpmts.kolporit.repository.ElectionRepository;
 import com.devpmts.kolporit.repository.ElectionResultRepository;
 import com.devpmts.kolporit.repository.PartyRepository;
 import com.devpmts.kolporit.repository.WahlbezirkRepository;
-import com.devpmts.util.DevpmtsUtil;
-import com.devpmts.util.spring.DevpmtsSpringUtil;
+import com.devpmts.util.DevpmtsSpringUtil;
 import com.rabbitmq.tools.json.JSONReader;
 
 import lombok.extern.slf4j.Slf4j;
@@ -34,13 +38,13 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class KolporitDataImporter {
 
-    static final File PARTY_FILE = DevpmtsUtil.getFile("parties.json");
+    static final File PARTY_FILE = getFile("parties.json");
 
-    static final File STADTTEILE_FILE = DevpmtsUtil.getFile("stadtteile.json");
+    static final File STADTTEILE_FILE = getFile("stadtteile.json");
 
-    static final File WAHLBEZIRKE_FILE = DevpmtsUtil.getFile("wahlbezirke.csv");
+    static final File WAHLBEZIRKE_FILE = getFile("wahlbezirke.csv");
 
-    static final File ELECTION_FILE = DevpmtsUtil.getFile("election.csv");
+    static final File ELECTION_FILE = getFile("election.csv");
 
     @Autowired
     PartyRepository partyRepository;
@@ -89,7 +93,7 @@ public class KolporitDataImporter {
     }
 
     void importPartys() {
-        String content = DevpmtsUtil.getStringFromFile(PARTY_FILE);
+        String content = getStringFromFile(PARTY_FILE);
         List<String> parties = (List<String>) new JSONReader().read(content);
         parties.stream()//
                 .map(partyName -> {
@@ -101,11 +105,11 @@ public class KolporitDataImporter {
     }
 
     void importBezirke() {
-        String content = DevpmtsUtil.getStringFromFile(STADTTEILE_FILE);
+        String content = getStringFromFile(STADTTEILE_FILE);
         Map<String, String> stadtteile = (HashMap<String, String>) new JSONReader().read(content);
         stadtteile.entrySet().stream().map(entry -> {
             Bezirk bezirk = new Bezirk();
-            bezirk.bezirkNummer = DevpmtsUtil.getIntOrZero(entry.getKey());
+            bezirk.bezirkNummer = getIntOrZero(entry.getKey());
             bezirk.name = entry.getValue();
             return bezirk;
         }).forEach(bezirk -> bezirkRepository.save(bezirk));
@@ -131,4 +135,40 @@ public class KolporitDataImporter {
     public Election election() {
         return electionRepository.findAll().get(0);
     }
+
+    static File getFile(String fileName) {
+        URL resource = Object.class.getClassLoader().getResource(fileName);
+        if (resource == null) {
+            System.err.println(fileName + " not found.");
+            return null;
+        }
+        try {
+            return Paths.get(resource.toURI()).toFile();
+        } catch (URISyntaxException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+    /**
+     * @param file
+     * @return the Stringcontent of the file or an empty String
+     */
+    static String getStringFromFile(File file) {
+        try (Scanner scanner = new Scanner(file)) {
+            return scanner.useDelimiter("\\Z").next();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        return "";
+    }
+
+    static Integer getIntOrZero(String value) {
+        try {
+            return Integer.parseInt(value);
+        } catch (NumberFormatException nfe) {
+            return 0;
+        }
+    }
+
 }
