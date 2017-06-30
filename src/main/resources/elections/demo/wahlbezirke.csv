@@ -1,0 +1,1710 @@
+Bezirk,Wahl-bezirk,PLZ,Anschrift
+1,100,10115,Chausseestr.  84
+1,101,10115,Hannoversche Str.  20
+1,102,10115,Chausseestr.  84
+1,103,10115,Hannoversche Str.  7
+1,104,13347,Schönwalder Str.  4
+1,105,10115,Torstr.  203
+1,106,10115,Gartenstr.  10-15
+1,107,10115,Bergstr.  58
+1,108,10115,Torstr.  203
+1,109,10115,Bergstr.  5-9
+1,110,10115,Brunnenstr.  148
+1,111,10115,Ruppiner Str.  47
+1,112,10115,Ruppiner Str.  47
+1,113,10119,Fehrbelliner Str.  80
+1,114,10115,Ruppiner Str.  47
+1,115,10119,Zehdenicker Str.  17
+1,116,10119,Veteranenstr.  10
+1,117,10119,Zehdenicker Str.  17
+1,118,10115,Linienstr.  122
+1,119,10115,Linienstr.  122
+1,120,13355,Ackerstr.  116
+1,121,10119,Gipsstr.  23A
+1,122,10119,Gipsstr.  23A
+1,123,10119,Zehdenicker Str.  17
+1,124,13355,Stralsunder Str.  43
+1,125,10115,Gartenstr.  10-15
+1,126,10115,Bergstr.  5-9
+1,127,10115,Linienstr.  122
+1,128,13355,Stralsunder Str.  43
+1,129,13355,Stralsunder Str.  57
+1,130,13355,Stralsunder Str.  57
+1,131,13355,Stralsunder Str.  57
+1,200,10117,Wilhelmstr.  52
+1,201,10117,Wilhelmstr.  52
+1,202,10117,Charlottenstr.  55
+1,203,10117,Leipziger Str.  47
+1,204,10117,Leipziger Str.  47
+1,205,10178,Breite Str.  36
+1,206,10179,Rungestr.  31
+1,207,10178,Rochstr.  7
+1,208,10178,Poststr.  13-14
+1,209,10178,Weinmeisterstr.  16
+1,210,10119,Rückerstr.  9
+1,211,10178,Weinmeisterstr.  16
+1,212,10178,Berolinastr.  8
+1,213,10178,Berolinastr.  8
+1,214,10178,Berolinastr.  8
+1,215,10179,Singerstr.  8
+1,216,10179,Magazinstr.  6-7
+1,217,10179,Singerstr.  8
+1,218,10179,Rungestr.  31
+1,219,10179,Sebastianstr.  57
+1,220,10179,Sebastianstr.  57
+1,221,10179,Schmidstr.  8
+1,222,10179,Schmidstr.  8
+1,223,10179,Michaelkirchplatz  15
+1,224,10179,Michaelkirchplatz  15
+1,225,10179,Magazinstr.  6-7
+1,226,10179,Singerstr.  8
+1,227,10179,Sebastianstr.  57
+1,228,10117,Dorotheenstr.  17
+1,229,10178,Weinmeisterstr.  16
+1,230,10178,Weinmeisterstr.  16
+1,231,10178,Rosenthaler Str.  43-45
+1,300,10557,Paulstr.  20b
+1,301,10557,Paulstr.  20b
+1,302,10557,Paulstr.  28
+1,303,10557,Paulstr.  28
+1,304,10557,Alt-Moabit  10
+1,305,10559,Alt-Moabit  25
+1,306,10555,Bochumer Str.  8B
+1,307,10551,Turmstr.  75
+1,308,10553,Neues Ufer  6
+1,309,10555,Zinzendorfstr.  15-16
+1,310,10551,Turmstr.  75
+1,311,10555,Zinzendorfstr.  15-16
+1,312,10555,Bochumer Str.  8B
+1,313,10555,Bochumer Str.  8B
+1,314,10555,Bochumer Str.  8B
+1,315,10555,Hansa-Ufer  3A
+1,316,10555,Hansa-Ufer  3
+1,317,10555,Altonaer Str.  26
+1,318,10555,Altonaer Str.  26
+1,319,10555,Altonaer Str.  26
+1,320,10557,Altonaer Str.  15
+1,321,10787,Thomas-Dehler-Str.  4
+1,322,10785,Derfflingerstr.  8
+1,323,10785,Derfflingerstr.  8
+1,324,10785,Lützowstr.  83-85
+1,325,10785,Lützowstr.  83-85
+1,326,10785,Lützowstr.  83-85
+1,327,10559,Rathenower Str.  15
+1,328,10557,Lehrter Str.  40
+1,329,10557,Lehrter Str.  68
+1,330,10557,Alt-Moabit  10
+1,400,10553,Huttenstr.  22A
+1,401,10553,Rostocker Str.  32
+1,402,10553,Rostocker Str.  32
+1,403,10551,Birkenstr.  35
+1,404,10551,Siemensstr.  20
+1,405,10551,Waldenserstr.  21
+1,406,10551,Siemensstr.  20
+1,407,10551,Waldenserstr.  21
+1,408,10551,Emdener Str.  11-13
+1,409,10551,Siemensstr.  20
+1,410,10551,Waldenserstr.  21
+1,411,10551,Mathilde-Jacob-Platz  1
+1,412,10551,Bredowstr.  31
+1,413,10551,Bredowstr.  31
+1,414,10551,Mathilde-Jacob-Platz  1
+1,415,10559,Turmstr.  86A
+1,416,13353,Lütticher Str.  47-48
+1,417,10559,Rathenower Str.  15
+1,418,10559,Perleberger Str.  33
+1,419,13353,Lütticher Str.  47-48
+1,420,10559,Stephanstr.  27
+1,421,10559,Stephanstr.  2
+1,422,10559,Stephanstr.  27
+1,423,10559,Stephanstr.  2
+1,424,13353,Lütticher Str.  47-48
+1,425,13353,Luxemburger Str.  10
+1,426,13353,Müllerstr.  146
+1,427,13353,Samoastr.  14
+1,428,13353,Luxemburger Str.  10
+1,429,13353,Tegeler Str.  18-19
+1,430,13353,Tegeler Str.  18-19
+1,431,13353,Müllerstr.  158
+1,432,13353,Müllerstr.  158
+1,433,13353,Tegeler Str.  18-19
+1,500,13351,Afrikanische Str.  125
+1,501,13351,Afrikanische Str.  125
+1,502,13351,Afrikanische Str.  125
+1,503,13349,Müllerstr.  74
+1,504,13351,Otawistr.  46
+1,505,13407,Holländerstr.  54
+1,506,13349,Müllerstr.  74
+1,507,13349,Müllerstr.  76
+1,508,13349,Schwyzer Str.  6-8
+1,509,13349,Barfusstr.  22-24
+1,510,13349,Ungarnstr.  75
+1,511,13349,Ungarnstr.  75
+1,512,13349,Edinburger Str.  53
+1,513,13349,Ungarnstr.  75
+1,514,13349,Ofener Str.  6
+1,515,13351,Otawistr.  46
+1,516,13351,Guineastr.  17-18
+1,517,13351,Guineastr.  17-18
+1,518,13351,Guineastr.  17-18
+1,519,13351,Guineastr.  17-18
+1,520,13351,Guineastr.  17-18
+1,521,13351,Guineastr.  17-18
+1,522,13359,Drontheimer Str.  23A
+1,523,13347,Schulstr.  97
+1,524,13347,Reinickendorfer Str.  60B
+1,525,13347,Reinickendorfer Str.  60
+1,526,13347,Malplaquetstr.  29-31
+1,527,13349,Ofener Str.  6
+1,528,13347,Malplaquetstr.  29-31
+1,529,13347,Malplaquetstr.  29-31
+1,530,13347,Ruheplatzstr.  13
+1,600,13347,Ravenestr.  12
+1,601,13359,Zechliner Str.  4
+1,602,13359,Wilhelm-Kuhr-Str.  50
+1,603,13359,Kattegatstr.  26
+1,604,13359,Nordbahnstr.  15-16
+1,605,13359,Freienwalder Str.  19C
+1,606,13359,Gotenburger Str.  8
+1,607,13359,Gotenburger Str.  8
+1,608,13359,Kattegatstr.  26
+1,609,13359,Zechliner Str.  4
+1,610,13359,Zechliner Str.  4
+1,611,13359,Gotenburger Str.  7-9
+1,612,13357,Prinzenallee  9
+1,613,13357,Grüntaler Str.  5
+1,614,13357,Böttgerstr.  6
+1,615,13357,Orthstr.  1
+1,616,13357,Exerzierstr.  32A
+1,617,13357,Gottschedstr.  28
+1,618,13357,Pankstr.  19
+1,619,13357,Pankstr.  19
+1,620,13357,Wiesenstr.  66
+1,621,13357,Orthstr.  1
+1,622,13357,Wiesenstr.  66
+1,623,13355,Stralsunder Str.  6
+1,624,13347,Antonstr.  17
+1,625,13355,Demminer Str.  27
+1,626,13355,Demminer Str.  27
+1,627,13355,Ramlerstr.  9-10
+1,628,13347,Antonstr.  17
+1,629,13347,Antonstr.  17
+1,630,13355,Ramlerstr.  9-10
+1,631,13355,Ramlerstr.  9-10
+1,632,13357,Ellerbeker Str.  7-8
+1,633,13357,Grüntaler Str.  21
+1,634,13357,Grüntaler Str.  5
+1,635,13357,Stettiner Str.  21
+2,101,10963,Bernburger Str.  24-25
+2,102,10963,Schöneberger Str.  24
+2,103,10969,Friedrich-Stampfer-Str.  1
+2,104,10963,Tempelhofer Ufer  18
+2,105,10961,Nostitzstr.  60
+2,106,10965,Großbeerenstr.  40
+2,107,10965,Yorckstr.  4-11
+2,108,10965,Großbeerenstr.  40
+2,109,10965,Mehringdamm  114
+2,110,10961,Mehringdamm  59
+2,111,10961,Gneisenaustr.  12
+2,112,10965,Fidicinstr.  2
+2,113,10961,Schleiermacherstr.  23
+2,114,10961,Blücherstr.  46-47
+2,115,10961,Urbanstr.  21
+2,201,10967,Urbanstr.  24
+2,202,10967,Graefestr.  35
+2,203,10967,Dieffenbachstr.  60
+2,204,10967,Urbanstr.  48E
+2,205,10967,Dieffenbachstr.  40
+2,206,10969,Gitschiner Str.  38
+2,207,10999,Kohlfurter Str.  20
+2,208,10999,Reichenberger Str.  44-45
+2,209,10999,Lausitzer Str.  41-44
+2,210,10999,Reichenberger Str.  64
+2,211,10999,Reichenberger Str.  92
+2,212,10997,Skalitzer Str.  55
+2,213,10997,Cuvrystr.  26A
+2,214,10997,Falckensteinstr.  6
+2,215,10997,Schlesische Str.  27A
+2,301,10969,Charlottenstr.  85
+2,302,10969,Alte Jakobstr.  124-128
+2,303,10961,Gneisenaustr.  73-74
+2,304,10961,Blücherstr.  62
+2,305,10969,Alexandrinenstr.  12
+2,306,10969,Axel-Springer-Str.  40-41
+2,307,10969,Oranienstr.  56
+2,308,10969,Bergfriedstr.  24
+2,309,10969,Wassertorstr.  4
+2,310,10999,Leuschnerdamm  33
+2,311,10999,Adalbertstr.  2
+2,312,10997,Adalbertstr.  23b
+2,313,10997,Waldemarstr.  118
+2,314,10997,Wrangelstr.  136
+2,315,10997,Wrangelstr.  98
+2,401,10249,Barnimstr.  18
+2,402,10249,Weinstr.  3
+2,403,10249,Friedenstr.  40-45
+2,404,10243,Palisadenstr.  76-78
+2,405,10249,Richard-Sorge-Str.  43-44
+2,406,10249,Richard-Sorge-Str.  43-44
+2,407,10249,Straßmannstr.  14-16
+2,408,10249,Straßmannstr.  14-16
+2,409,10249,Weidenweg  44-46
+2,410,10243,Koppenstr.  38-40
+2,411,10243,Kleine Markusstr.  9
+2,412,10243,Krautstr.  50
+2,413,10243,Andreasstr.  21
+2,414,10243,Rüdersdorfer Str.  20-27
+2,415,10243,Helsingforser Str.  11-13
+2,501,10249,Hausburgstr.  20
+2,502,10249,Bersarinplatz  4
+2,503,10247,Liebigstr.  18a
+2,504,10247,Liebigstr.  39
+2,505,10247,Weidenweg  78
+2,506,10247,Frankfurter Allee  35-37
+2,507,10247,Schreinerstr.  53
+2,508,10247,Bänschstr.  76-78
+2,509,10247,Frankfurter Allee  77
+2,510,10247,Frankfurter Allee  35-37
+2,511,10247,Frankfurter Allee  14a
+2,512,10245,Gabriel-Max-Str.  15a
+2,513,10247,Frankfurter Allee  35-37
+2,514,10247,Kinzigstr.  34
+2,515,10247,Scharnweberstr.  19
+2,516,10247,Jessnerstr.  24-32
+2,601,10243,Fredersdorfer Str.  6
+2,602,10243,Marchlewskistr.  25E
+2,603,10243,Kadiner Str.  1
+2,604,10243,Warschauer Str.  58A
+2,605,10243,Warschauer Str.  58A
+2,606,10245,Konitzer Str.  2
+2,607,10245,Boxhagener Str.  89
+2,608,10247,Müggelstr.  19
+2,609,10247,Scharnweberstr.  61
+2,610,10245,Simplonstr.  18
+2,611,10245,Gryphiusstr.  34-35
+2,612,10245,Naglerstr.  1-3
+2,613,10245,Modersohnstr.  53
+2,614,10245,Laskerstr.  6-8
+2,615,10245,Bahrfeldtstr.  9-10
+2,616,10245,Alt-Stralau  34
+3,101,13125,Wiltbergstr.  37-39
+3,102,13125,Alt-Buch  45-51
+3,103,13125,Alt-Buch  50
+3,104,13125,Franz-Schmidt-Str.  8-10
+3,105,13125,Ernst-Busch-Str.  27
+3,106,13125,Karower Chaussee  169c
+3,107,13125,Achillesstr.  31
+3,108,13125,Bedeweg  1
+3,109,13125,Bedeweg  1
+3,110,13125,Sägebockweg  107
+3,111,13125,Achillesstr.  31
+3,112,13125,Bahnhofstr.  32
+3,113,13125,Straße 43  13a
+3,114,13125,Bahnhofstr.  32
+3,115,13127,Berliner Str.  19
+3,116,13127,Hauptstr.  66
+3,117,13127,Hauptstr.  66
+3,118,13127,Schützenstr.  133
+3,119,13125,Achillesstr.  31
+3,120,13125,Hofzeichendamm  1
+3,121,13127,Arnouxstr.  18
+3,201,13159,Birnbaumring  81
+3,202,13159,Hauptstr.  14
+3,203,13127,Arnouxstr.  18
+3,204,13127,Arnouxstr.  18
+3,205,13127,Arnouxstr.  18
+3,206,13158,Hauptstr.  94
+3,207,13158,Kastanienallee  59
+3,208,13158,Lessingstr.  44
+3,209,13158,Fontanestr.  83
+3,210,13158,Straße vor Schönholz  20
+3,211,13158,Kastanienallee  59
+3,212,13156,Wilhelm-Wolff-Str.  19
+3,213,13156,Kuckhoffstr.  2-22
+3,214,13156,Pfarrer-Lenzel-Str.  1-5
+3,215,13158,Erbeskopfweg  6-10
+3,216,13156,Kuckhoffstr.  2-22
+3,217,13156,Charlottenstr.  19
+3,218,13158,Dietzgenstr.  104
+3,219,13158,Lessingstr.  44
+3,220,13156,Wilhelm-Wolff-Str.  19
+3,301,13156,Pankower Str.  13
+3,302,13187,Klaustaler Str.  21a
+3,303,13156,Pankower Str.  14
+3,304,13156,Rolandstr.  35
+3,305,13156,Kuckhoffstr.  2-22
+3,306,13156,Tschaikowskistr.  12
+3,307,13187,Klaustaler Str.  21a
+3,308,13187,Stiftsweg  3
+3,309,13187,Stiftsweg  3
+3,310,13187,Grunowstr.  8-11
+3,311,13187,Stiftsweg  3
+3,312,13187,Pestalozzistr.  8a
+3,313,13156,Majakowskiring  58
+3,314,13187,Wilhelm-Kuhr-Str.  78
+3,315,13187,Görschstr.  42-44
+3,316,13187,Görschstr.  42-44
+3,317,13187,Görschstr.  42-44
+3,318,13187,Mühlenstr.  24
+3,319,13156,Rolandstr.  35
+3,401,13086,Bühringstr.  23
+3,402,13086,Gustav-Adolf-Str.  60
+3,403,13086,Amalienstr.  8
+3,404,13088,Berliner Allee  193-197
+3,405,13088,Berliner Allee  252-260
+3,406,13088,Buschallee  23a
+3,407,13088,Buschallee  23a
+3,408,13088,Buschallee  23a
+3,409,13088,Brodenbacher Weg  31
+3,410,13088,Berliner Allee  252-260
+3,411,13088,Darßer Str.  203
+3,412,13086,Rennbahnstr.  45
+3,413,13129,Bahnhofstr.  32
+3,414,13129,Bahnhofstr.  32
+3,415,13129,Bahnhofstr.  32
+3,416,13086,Gustav-Adolf-Str.  60
+3,417,13088,Berliner Allee  252-260
+3,501,13187,Brixener Str.  40
+3,502,13187,Dolomitenstr.  94
+3,503,13187,Brixener Str.  40
+3,504,13189,Upsalaer Str.  6
+3,505,13189,Thulestr.  39-41
+3,506,13189,Thulestr.  39-41
+3,507,13189,Neumannstr.  7
+3,508,13189,Neumannstr.  7
+3,509,13189,Neumannstr.  9
+3,510,13189,Neumannstr.  65
+3,511,13189,Neumannstr.  65
+3,512,13189,Kissingenstr.  12
+3,513,13189,Granitzstr.  38
+3,514,13189,Granitzstr.  38
+3,515,13089,Berliner Str.  66
+3,516,13089,Romain-Rolland-Str.  112
+3,517,13089,Romain-Rolland-Str.  138
+3,518,13189,Kissingenstr.  12
+3,519,13189,Neumannstr.  9
+3,520,13189,Thulestr.  39-41
+3,601,10439,Stavangerstr.  26
+3,602,10439,Ibsenstr.  17
+3,603,10439,Paul-Robeson-Str.  15
+3,604,10439,Paul-Robeson-Str.  15
+3,605,10439,Schivelbeiner Str.  12
+3,606,10439,Schivelbeiner Str.  12
+3,607,10437,Gleimstr.  49
+3,608,10437,Sonnenburger Str.  69
+3,609,10437,Gleimstr.  49
+3,610,10437,Greifenhagener Str.  58
+3,611,10437,Greifenhagener Str.  58
+3,612,10437,Pappelallee  30-31
+3,613,10435,Danziger Str.  50
+3,614,10439,Dunckerstr.  64
+3,615,10435,Danziger Str.  50
+3,616,10437,Pappelallee  30-31
+3,617,10437,Dunckerstr.  77
+3,618,10435,Danziger Str.  50
+3,619,10405,Fröbelstr.  17
+3,620,10405,Fröbelstr.  17
+3,701,13086,Caligariplatz  1
+3,702,13086,Pistoriusstr.  88
+3,703,13086,Langhansstr.  120
+3,704,13086,Langhansstr.  23
+3,705,13086,Charlottenburger Str.  117
+3,706,10409,Mandelstr.  6-8
+3,707,10409,Mandelstr.  6-8
+3,708,10409,Mandelstr.  6-8
+3,709,10409,Grellstr.  14
+3,710,10409,Erich-Weinert-Str.  103
+3,711,10409,Erich-Weinert-Str.  103
+3,712,10439,Wichertstr.  24
+3,713,10439,Dunckerstr.  64
+3,714,10439,Scherenbergstr.  7
+3,715,10439,Wichertstr.  24
+3,716,10439,Kuglerstr.  11
+3,717,10439,Scherenbergstr.  7
+3,718,13086,Gustav-Adolf-Str.  21
+3,719,13086,Langhansstr.  23
+3,720,10439,Wichertstr.  24
+3,801,10405,Ella-Kay-Str.  47
+3,802,10405,Jablonskistr.  33
+3,803,10405,Christburger Str.  7
+3,804,10405,Christburger Str.  7
+3,805,10405,Jablonskistr.  33
+3,806,10405,Prenzlauer Allee  227-228
+3,807,10405,Prenzlauer Allee  227-228
+3,808,10405,Mendelssohnstr.  10
+3,809,10435,Danziger Str.  50
+3,810,10435,Husemannstr.  12
+3,811,10405,Prenzlauer Allee  227-228
+3,812,10405,Belforter Str.  11
+3,813,10405,Saarbrücker Str.  24
+3,814,10119,Templiner Str.  1
+3,815,10119,Templiner Str.  1
+3,816,10435,Knaackstr.  63
+3,817,10435,Knaackstr.  63
+3,818,10435,Schönhauser Allee  165
+3,819,10435,Schönhauser Allee  165
+3,901,13088,Gounodstr.  71
+3,902,13088,Gounodstr.  71
+3,903,13088,Bizetstr.  41
+3,904,13088,Bizetstr.  41
+3,905,10409,Gürtelstr.  32a
+3,906,10409,Pieskower Weg  39
+3,907,10409,Pieskower Weg  39
+3,908,10409,Pieskower Weg  39
+3,909,10407,Syringenplatz  30
+3,910,10407,Syringenplatz  30
+3,911,10407,Rudi-Arndt-Str.  18
+3,912,10407,Rudi-Arndt-Str.  18
+3,913,10407,Eugen-Schönhaar-Str.  18
+3,914,10407,Eugen-Schönhaar-Str.  18
+3,915,10407,John-Schehr-Str.  38
+3,916,10405,Greifswalder Str.  25
+3,917,10405,Greifswalder Str.  25
+3,918,10407,Am Friedrichshain  15
+3,919,10407,Am Friedrichshain  15
+3,920,10409,Hanns-Eisler-Str.  7
+3,921,10409,Pieskower Weg  39
+3,922,10249,Thaerstr.  30-30c
+3,923,10409,Gürtelstr.  32a
+3,924,10407,Eugen-Schönhaar-Str.  18
+4,101,13627,Halemweg  34
+4,102,13627,Halemweg  34
+4,103,13627,Schweiggerweg  2-12
+4,104,13627,Halemweg  34
+4,105,13627,Halemweg  34
+4,106,13627,Halemweg  34
+4,107,13627,Heckerdamm  204-210
+4,108,13627,Heckerdamm  204-210
+4,109,13627,Heckerdamm  221
+4,110,13627,Heckerdamm  221
+4,111,13627,Heckerdamm  204-210
+4,112,10589,Olbersstraße  38
+4,113,10589,Tegeler Weg  21
+4,114,10589,Olbersstraße  38
+4,115,10589,Tegeler Weg  21
+4,116,10589,Mierendorffstraße  7
+4,117,10589,Mierendorffstraße  20-24
+4,118,10589,Mierendorffstraße  20-24
+4,201,14052,Murellenweg  1
+4,202,14055,Pillkaller Allee  1
+4,203,14055,Tharauer Allee  15
+4,204,14055,Angerburger Allee  56
+4,205,14055,Dickensweg  15
+4,206,14052,Meiningenallee  20-22
+4,207,14050,Eschenallee  8
+4,208,14059,Ernst-Bumm-Weg  6
+4,209,14052,Meiningenallee  20-22
+4,210,14052,Meiningenallee  20-22
+4,211,14050,Eschenallee  8
+4,212,14052,Oldenburgallee  43
+4,213,14050,Platanenallee  16
+4,214,14059,Epiphanienweg  1
+4,215,14059,Nehringstraße  8
+4,216,14052,Bayernallee  4
+4,217,14052,Preußenallee  7
+4,218,14052,Bayernallee  4
+4,219,14050,Platanenallee  16
+4,220,14055,Waldschulallee  95
+4,221,14052,Heerstraße  12
+4,222,14057,Herbartstraße  25
+4,223,10711,Kronprinzendamm  1
+4,224,14055,Maikäferpfad  30
+4,301,10585,Nithackstraße  12
+4,302,10585,Nithackstraße  12
+4,303,10585,Gierkeplatz  1-3
+4,304,10585,Gierkeplatz  1-3
+4,305,10585,Gierkeplatz  1-3
+4,306,14059,Nehringstraße  8
+4,307,14059,Nehringstraße  8
+4,308,14059,Epiphanienweg  1
+4,309,14059,Knobelsdorffstraße  92
+4,310,14059,Danckelmannstraße  26-28
+4,311,14059,Danckelmannstraße  26-28
+4,312,14057,Witzlebenstraße  34-35
+4,313,14057,Witzlebenstraße  34-35
+4,314,14057,Witzlebenstraße  34-35
+4,315,14057,Amtsgerichtsplatz  1
+4,316,14057,Kuno-Fischer-Str.  22-26
+4,317,14057,Kuno-Fischer-Straße  22-26
+4,318,14057,Kuno-Fischer-Straße  22-26
+4,319,14057,Kuno-Fischer-Straße  22-26
+4,320,14057,Amtsgerichtsplatz  1
+4,321,10629,Sybelstraße  20-21
+4,322,10629,Sybelstraße  20-21
+4,323,10629,Sybelstraße  20-21
+4,324,10629,Sybelstraße  2
+4,401,10585,Otto-Suhr-Allee  91A
+4,402,10625,Bismarckstraße  20
+4,403,10587,Marchstraße  23
+4,404,14059,Schloßstraße  27A
+4,405,10585,Zillestraße  54
+4,406,10585,Zillestraße  54
+4,407,10627,Pestalozzistraße  40-41
+4,408,10625,Goethestraße  19-24
+4,409,10625,Schillerstraße  125-127
+4,410,10627,Pestalozzistraße  40-41
+4,411,10625,Goethestraße  19-24
+4,412,10625,Goethestraße  19-24
+4,413,10623,Goethestraße  8-9
+4,414,10625,Schillerstraße  125-127
+4,415,10623,Hardenbergstraße  33
+4,416,10629,Sybelstraße  2
+4,417,10623,Bleibtreustraße  43-44
+4,418,10629,Sybelstraße  2
+4,419,10623,Bleibtreustraße  43-44
+4,420,10719,Kurfürstendamm  211
+4,421,10789,Lietzenburger Straße  39
+4,422,10629,Sybelstraße  2
+4,423,10623,Bleibtreustr.  43-44
+4,424,10707,Xantener Straße  1
+4,425,10707,Sächsische Straße  58
+4,501,14193,Auerbachstraße  7
+4,502,14193,Auerbachstraße  7
+4,503,14193,Koenigsallee  15
+4,504,14193,Auguste-Viktoria-Straße  115-116
+4,505,10709,Nestorstraße  25
+4,506,10709,Nestorstraße  25
+4,507,10711,Joachim-Friedrich-Straße  35-36
+4,508,10711,Joachim-Friedrich-Straße  35-36
+4,509,10709,Kurfürstendamm  100
+4,510,10709,Kurfürstendamm  100
+4,511,10709,Kurfürstendamm  152
+4,512,10709,Westfälische Straße  16A
+4,513,10709,Westfälische Straße  16A
+4,514,10707,Württembergische Straße  6
+4,515,10707,Württembergische Straße  6
+4,516,10707,Sächsische Straße  46
+4,517,10709,Eisenzahnstraße  48
+4,518,14193,Salzbrunner Straße  41
+4,519,14193,Salzbrunner Straße  41
+4,520,14193,Salzbrunner Straße  41
+4,521,14193,Herthastraße  25A
+4,522,14193,Bismarckallee  46-48
+4,523,14193,Plöner Straße  4
+4,524,14193,Bismarckallee  46-48
+4,525,14199,Heydenstraße  9
+4,601,10719,Ludwigkirchplatz  10
+4,602,10719,Ludwigkirchplatz  10
+4,603,10789,Lietzenburger Straße  45
+4,604,10789,Lietzenburger Straße  39
+4,605,10789,Lietzenburger Straße  45
+4,606,10779,Prager Straße  12
+4,607,10717,Nikolsburger Straße  2-4
+4,608,10707,Sächsische Straße  58
+4,609,10719,Emser Platz  5
+4,610,10707,Sächsische Straße  58
+4,611,10717,Trautenaustraße  5
+4,612,10779,Prager Straße  12
+4,613,10717,Bundesallee  36-37
+4,614,10717,Bundesallee  36-37
+4,615,10717,Landhausstraße  33-35
+4,616,10717,Gasteiner Straße  23
+4,617,10713,Brandenburgische Straße  2
+4,618,10713,Gieselerstraße  4
+4,619,10713,Sigmaringer Straße  1
+4,620,10717,Bundesallee  33
+4,621,10715,Prinzregentenstr.  32
+4,622,10715,Prinzregentenstraße  32
+4,623,10715,Bundesallee  49
+4,624,10715,Weimarische Straße  21
+4,625,10715,Weimarische Straße  21
+4,626,10715,Hildegardstraße  3A
+4,701,10713,Gieselerstraße  4
+4,702,10713,Hohenzollerndamm  177
+4,703,10713,Gieselerstraße  4
+4,704,10713,Mecklenburgische Straße  15
+4,705,10713,Mecklenburgische Straße  15
+4,706,10715,Weimarische Straße  21
+4,707,10715,Weimarische Straße  21
+4,708,14197,Aßmannshauser Straße  4-6
+4,709,14197,Sodener Straße  31
+4,710,14197,Hohensteiner Straße  6
+4,711,14199,Dillenburger Str.  57
+4,712,14197,Rüdesheimer Straße  30
+4,713,14197,Rüdesheimer Straße  30
+4,714,14197,Rüdesheimer Straße  30
+4,715,14199,Dillenburger Straße  57
+4,716,14197,Rüdesheimer Straße  30
+4,717,14197,Rüdesheimer Straße  30
+4,718,14199,Tölzer Str.  25
+4,719,14199,Fritz-Wildung-Straße  22
+4,720,14199,Auguste-Viktoria-Str.  57
+4,721,14199,Auguste-Viktoria-Str.  57
+4,722,14195,Lentzeallee  2-4
+4,723,14199,Cunostraße  1
+4,724,14195,Lentzeallee  2-4
+4,801,10585,Richard-Wagner-Straße  30
+4,802,10587,Alt-Lietzow  30
+4,803,10587,Iburger Ufer  14
+4,804,10587,Marchstraße  23
+4,805,10587,Loschmidtstraße  19
+4,806,10587,Marchstraße  23
+5,101,13587,Schönwalder Allee  26
+5,102,13587,Bernkastler Weg  26
+5,103,13587,Wichernstr.  56A
+5,104,13587,Niederneuendorfer Allee  7
+5,105,13589,Schwanter Weg  3
+5,106,13587,Gaismannshofer Weg  2
+5,107,13587,Am Forstacker  9
+5,108,13587,Niederneuendorfer Allee  7
+5,109,13587,Havelschanze  3
+5,110,13587,Am Forstacker  9
+5,111,13587,Am Forstacker  9
+5,112,13587,Gaismannshofer Weg  2
+5,113,13587,Gaismannshofer Weg  2
+5,114,13587,Gaismannshofer Weg  2
+5,115,13585,Marschallstr.  7
+5,116,13585,Windmühlenberg  3
+5,117,13589,Westerwaldstr.  19-21
+5,118,13583,Germersheimer Weg  93
+5,119,13587,Am Forstacker  9
+5,120,13587,Hugo-Cassirer-Str.  1
+5,121,13587,Hugo-Cassirer-Str.  48
+5,122,13589,Pionierstr.  197
+5,123,13589,Pionierstr.  197
+5,124,13589,Westerwaldstr.  19-21
+5,125,13589,Westerwaldstr.  19-21
+5,126,13589,Westerwaldstr.  19-21
+5,127,13589,Westerwaldstr.  19-21
+5,128,13589,Stadtrandstr.  552
+5,129,13589,Pionierstr.  197
+5,130,13589,Freudstr.  11
+5,131,13585,Neuendorfer Str.  56
+5,132,13585,Schönwalder Str.  51
+5,133,13587,David-Francke-Str.  1
+5,201,13583,Seegefelder Str.  125
+5,202,13583,Seegefelder Str.  125
+5,203,13583,Seegefelder Str.  125
+5,204,13583,Seegefelder Str.  125
+5,205,13583,Borkzeile  34
+5,206,13581,Elsflether Weg  26
+5,207,13585,Windmühlenberg  3
+5,208,13585,Schönwalder Str.  23
+5,209,13583,Falkenseer Chaussee  8
+5,210,13585,Lutherstr.  10
+5,211,13585,Blumenstr.  13
+5,212,13581,Elsflether Weg  26
+5,213,13583,Recklinghauser Weg  26-32
+5,214,13583,Recklinghauser Weg  26-32
+5,215,13585,Borchertweg  2
+5,216,13585,Borchertweg  2
+5,217,13595,Wilhelmstr.  10
+5,218,13585,Bismarckstr.  14
+5,219,13585,Bismarckstr.  14
+5,220,13581,Lutoner Str.  19
+5,221,13597,Mauerstr.  10A
+5,222,13597,Mauerstr.  10A
+5,223,13583,Borkzeile  34
+5,224,13583,Borkzeile  34
+5,225,13585,Schönwalder Str.  23
+5,226,13581,Elsflether Weg  26
+5,227,13585,Lutherstr.  10
+5,228,13583,Burbacher Weg  2
+5,229,13583,Eiserfelder Ring  9
+5,230,13583,Recklinghauser Weg  26-32
+5,231,13585,Borchertweg  2
+5,301,13599,Nonnendammallee  140-143
+5,302,13597,Stichstr.  1
+5,303,13597,Grunewaldstr.  8
+5,304,13599,Grützmacherweg  7
+5,305,13599,Grützmacherweg  7
+5,306,13581,Elsflether Weg  26
+5,307,13599,Lüdenscheider Weg  17
+5,308,13599,Gartenfelder Str.  81
+5,309,13599,Gartenfelder Str.  81
+5,310,13595,Wilhelmstr.  10
+5,311,13595,Wilhelmstr.  10
+5,312,13599,Gartenfelder Str.  81
+5,313,13595,Wilhelmstr.  10
+5,314,13595,Pichelsdorfer Str.  79
+5,315,13629,Jungfernheideweg  79
+5,316,13595,Wilhelmstr.  10
+5,317,13599,Lüdenscheider Weg  17
+5,318,13595,Pichelsdorfer Str.  79
+5,319,13629,Rohrdamm  56
+5,320,13599,Haselhorster Damm  9
+5,321,13595,Götelstr.  68
+5,322,13595,Götelstr.  68
+5,323,13599,Nonnendammallee  140-143
+5,324,13629,Buolstr.  14
+5,325,13629,Lenther Steig  1-3
+5,326,13629,Lenther Steig  1-3
+5,327,13629,Lenther Steig  1-3
+5,328,13629,Lenther Steig  1-3
+5,329,13629,Lenther Steig  1-3
+5,330,13597,Grunewaldstr.  8
+5,331,13597,Grunewaldstr.  8
+5,332,13595,Wilhelmstr.  10
+5,401,13591,Heidebergplan  4
+5,402,13583,Seegefelder Str.  125
+5,403,13591,Heidebergplan  4
+5,404,13591,Hauptstr.  12
+5,405,13591,Am Heideberg  15
+5,406,13591,Stieglakeweg  11
+5,407,13591,Südekumzeile  5
+5,408,13593,Maulbeerallee  23
+5,409,13581,Lutoner Str.  19
+5,410,13589,Am Kiesteich  50
+5,411,13591,Spandauer Str.  86
+5,412,13591,Südekumzeile  5
+5,413,13591,Südekumzeile  5
+5,414,13591,Südekumzeile  5
+5,415,13591,Südekumzeile  5
+5,416,13591,Staakener Feldstr.  8
+5,417,13591,Schulstr.  3
+5,418,13589,Im Spektefeld  31
+5,419,13589,Im Spektefeld  31
+5,420,13591,Südekumzeile  5
+5,421,13593,Pillnitzer Weg  8
+5,422,13593,Pillnitzer Weg  21
+5,423,13589,Im Spektefeld  31
+5,424,13589,Im Spektefeld  31
+5,425,13591,Wiesenweg  20
+5,426,13591,Richard-Münch-Str.  69
+5,427,13593,Obstallee  22C
+5,428,13591,Heidebergplan  4
+5,429,13591,Spandauer Str.  86
+5,430,13591,Staakener Feldstr.  8
+5,431,13591,Staakener Feldstr.  8
+5,501,13595,Melanchthonstr.  7
+5,502,13595,Baumertweg  11
+5,503,13593,Daberkowstr.  27
+5,504,13595,Jaczostr.  67
+5,505,13595,Jaczostr.  67
+5,506,13593,Weinmeisterhornweg  122
+5,507,14089,Plievierstr.  3
+5,508,14089,Kladower Damm  145
+5,509,14089,Kladower Damm  244E
+5,510,14089,Schallweg  31
+5,511,14089,Am Landschaftspark Gatow  40
+5,512,13595,Jaczostr.  67
+5,513,14089,Am Landschaftspark Gatow  40
+5,514,13593,Räcknitzer Steig  12
+5,515,13595,Jaczostr.  67
+5,516,14089,Lanzendorfer Weg  30
+5,517,13595,Weverstr.  38
+5,518,14089,Am Landschaftspark Gatow  40
+5,519,13593,Weinmeisterhornweg  122
+5,520,13593,Heerstr.  455
+5,521,13593,Blasewitzer Ring  28
+5,522,14089,Alt-Kladow  22
+5,523,14089,Am Landschaftspark Gatow  40
+5,524,14089,Sakrower Kirchweg  79
+5,525,14089,Plievierstr.  3
+5,526,13593,Weinmeisterhornweg  122
+5,527,13593,Räcknitzer Steig  12
+5,528,14089,Parnemannweg  22
+5,529,14089,Schallweg  31
+5,530,13595,Melanchthonstr.  8
+5,531,13593,Räcknitzer Steig  12
+6,101,14195,Podbielskiallee  78
+6,102,12163,Lepsiusstr.  24-28
+6,103,12163,Lepsiusstr.  24-28
+6,104,12163,Lepsiusstr.  24-28
+6,105,12163,Florastr.  13
+6,106,12157,Sachsenwaldstr.  20-21
+6,107,12157,Sachsenwaldstr.  20-21
+6,108,12163,Gritznerstr.  57
+6,109,12163,Gritznerstr.  57
+6,110,12163,Schloßstr.  37
+6,111,12157,Sachsenwaldstr.  20-21
+6,112,12157,Sachsenwaldstr.  20-21
+6,113,12157,Sachsenwaldstr.  20-21
+6,114,12165,Rothenburgstr.  18
+6,115,12165,Rothenburgstr.  18
+6,116,12203,Haydnstr.  15
+6,117,12165,Rothenburgstr.  18
+6,118,12205,Hans-Sachs-Str.  4D
+6,201,12169,Heesestr.  15
+6,202,12169,Heesestr.  15
+6,203,12169,Elisenstr.  3-4
+6,204,12169,Hanstedter Weg  11-15
+6,205,12247,Ellwanger Str.  9
+6,206,12247,Hünefeldzeile  16
+6,207,12169,Elisenstr.  3-4
+6,208,12169,Hanstedter Weg  11-15
+6,209,12169,Heesestr.  15
+6,210,12167,Beymestr.  6-7
+6,211,12167,Beymestr.  6-7
+6,212,12167,Heinrich-Seidel-Str.  16
+6,213,12167,Heinrich-Seidel-Str.  16
+6,214,12167,Heinrich-Seidel-Str.  16
+6,215,12203,Haydnstr.  15
+6,216,12203,Haydnstr.  15
+6,217,12203,Haydnstr.  15
+6,218,12203,Haydnstr.  15
+6,301,12205,Curtiusstr.  37
+6,302,12205,Hans-Sachs-Str.  4D
+6,303,12203,Moltkestr.  24-26
+6,304,12205,Curtiusstr.  37
+6,305,12205,Drakestr.  72-74
+6,306,14165,Claszeile  56
+6,307,14167,Leo-Baeck-Str.  28-30
+6,308,14167,Leo-Baeck-Str.  28-30
+6,309,12205,Kommandantenstr.  83-84
+6,310,12205,Kommandantenstr.  83-84
+6,311,12205,Drakestr.  72-74
+6,312,12205,Kommandantenstr.  83-84
+6,313,14167,Harry-S.-Truman-Allee  3
+6,314,14167,Harry-S.-Truman-Allee  3
+6,315,14167,Leo-Baeck-Str.  28-30
+6,316,14167,Teltower Damm  226
+6,317,14167,Teltower Damm  226
+6,318,14165,Claszeile  56
+6,401,12203,Ringstr.  2-3
+6,402,12207,Goethestr.  9-11
+6,403,12207,Goethestr.  9-11
+6,404,12209,Kastanienstr.  6-8
+6,405,12209,Hildburghauser Str.  135-145
+6,406,12209,Kastanienstr.  6-8
+6,407,12249,Seydlitzstr.  30-34
+6,408,12209,Hildburghauser Str.  135-145
+6,409,12207,Ostpreußendamm  63
+6,410,12207,Ostpreußendamm  63
+6,411,12207,Lippstädter Str.  9-11
+6,412,12207,Lippstädter Str.  9-11
+6,413,12207,Mercatorweg  8-10
+6,414,12207,Mercatorweg  8-10
+6,415,12207,Mercatorweg  8-10
+6,416,12209,Hildburghauser Str.  135-145
+6,417,12209,Hildburghauser Str.  135-145
+6,501,12247,Leonorenstr.  70
+6,502,12247,Leonorenstr.  70
+6,503,12247,Schulstr.  17-21
+6,504,12207,Ostpreußendamm  166
+6,505,12247,Beethovenstr.  34
+6,506,12249,Seydlitzstr.  30-34
+6,507,12247,Schulstr.  17-21
+6,508,12247,Wedellstr.  26
+6,509,12249,Halbauer Weg  25
+6,510,12249,Wichurastr.  59
+6,511,12207,Ostpreußendamm  166
+6,512,12249,Seydlitzstr.  30-34
+6,513,12249,Dessauerstr.  63
+6,514,12249,Gallwitzallee  136-144
+6,515,12249,Gallwitzallee  136-144
+6,516,12249,Halbauer Weg  25
+6,517,12247,Wedellstr.  26
+6,518,12249,Halbauer Weg  25
+6,601,14163,Wilskistr.  78-80
+6,602,14163,Argentinische Allee  89
+6,603,14163,Wilskistr.  78-80
+6,604,14169,Am Hegewinkel  2A
+6,605,14195,Hüttenweg  40
+6,606,14195,Bachstelzenweg  2-8
+6,607,14195,Bachstelzenweg  2-8
+6,608,14195,Hüttenweg  40
+6,609,14195,Molsheimer Str.  7
+6,610,14195,Podbielskiallee  78
+6,611,14163,Potsdamer Str.  7
+6,612,14163,Potsdamer Str.  7
+6,613,14163,Wilskistr.  78-80
+6,614,14195,Molsheimer Str.  7
+6,615,14195,Molsheimer Str.  7
+6,616,14167,Bolchener Str.  5
+6,617,14169,Winfriedstr.  6
+6,618,14167,Bolchener Str.  5
+6,619,14165,Schönower Str.  8
+6,701,14109,Schulstr.  4
+6,702,14109,Schulstr.  4
+6,703,14109,Zum Heckeshorn  36
+6,704,14109,Königstr.  25-27
+6,705,14109,Dreilindenstr.  65
+6,706,14129,Kirchblick  8
+6,707,14129,Kirchblick  8
+6,708,14109,Dreilindenstr.  65
+6,709,14129,Beskidenstr.  3
+6,710,14129,Beskidenstr.  3
+6,711,14163,Am Rohrgarten  9
+6,712,14163,Am Rohrgarten  9
+6,713,14129,Beskidenstr.  3
+6,714,14129,Beskidenstr.  3
+6,715,14163,Am Rohrgarten  9
+6,716,14163,Rondellstr.  5
+6,717,14163,Beuckestr.  25
+6,718,14165,Ludwigsfelder Str.  43-47
+6,719,14165,Ludwigsfelder Str.  43-47
+7,101,10787,Nürnberger Str.  63
+7,102,10787,Nürnberger Str.  63
+7,103,10783,Bülowstr.  94
+7,104,10783,Bülowstr.  94
+7,105,10777,Welserstr.  16-22
+7,106,10781,Luitpoldstr.  38
+7,107,10781,Pallasstr.  15
+7,108,10781,Pallasstr.  15
+7,109,10777,Welserstr.  16-22
+7,110,10779,Münchener Str.  49
+7,111,10781,Barbarossaplatz  5-6
+7,112,10781,Pallasstr.  27
+7,113,10781,Pallasstr.  27
+7,114,10779,Münchener Str.  49
+7,115,10781,Barbarossaplatz  5
+7,201,10779,Münchener Str.  34-38
+7,202,10825,Martin-Luther-Str.  77
+7,203,10781,Barbarossaplatz  5
+7,204,10783,Steinmetzstr.  46-50
+7,205,10783,Steinmetzstr.  46-50
+7,206,10825,Freiherr-vom-Stein-Str.  1
+7,207,10825,Am Mühlenberg  12
+7,208,10825,Martin-Luther-Str.  105
+7,209,10825,John-F.-Kennedy-Platz  1
+7,210,10829,Leberstr.  7
+7,211,10829,Leberstr.  7
+7,212,10829,Kolonnenstr.  30-30A
+7,213,10827,Ebersstr.  19
+7,214,10827,Feurigstr.  57
+7,215,10827,Ebersstr.  9
+7,301,14197,Offenbacher Str.  5A
+7,302,12159,Perelsplatz  6-9
+7,303,12159,Perelsplatz  6-9
+7,304,12159,Otzenstr.  16-17
+7,305,14197,Offenbacher Str.  5A
+7,306,12161,Rheingaustr.  7
+7,307,12159,Stierstr.  20A
+7,308,12159,Stierstr.  20A
+7,309,12161,Rheingaustr.  7
+7,310,12161,Rheingaustr.  7
+7,311,12161,Illstr.  4-6
+7,312,12157,Rubensstr.  83
+7,313,12161,Rheingaustr.  7
+7,314,12161,Illstr.  4-6
+7,315,12157,Rubensstr.  83
+7,316,12157,Pöppelmannstr.  2
+7,401,12157,Pöppelmannstr.  2
+7,402,10829,Tempelhofer Weg  62
+7,403,10829,Kolonnenstr.  30-30A
+7,404,10829,Kolonnenstr.  30-30A
+7,405,10965,Dudenstr.  35-37
+7,406,12101,Boelckestr.  58
+7,407,10965,Dudenstr.  35-37
+7,408,12101,Boelckestr.  102
+7,409,12101,Hessenring  47
+7,410,12105,Reglinstr.  29
+7,411,12101,Hessenring  47
+7,412,12103,Alt-Tempelhof  53-57
+7,413,12103,Alt-Tempelhof  53-57
+7,414,12103,Alt-Tempelhof  53-57
+7,415,12103,Kaiserin-Augusta-Str.  19-20
+7,416,12105,Reglinstr.  29
+7,501,12105,Ringstr.  103-106
+7,502,12105,Konradinstr.  15-17
+7,503,12099,Tempelhofer Damm  234-236
+7,504,12103,Friedrich-Wilhelm-Str.  72-74
+7,505,12103,Kaiserin-Augusta-Str.  19-20
+7,506,12099,Götzstr.  19-21
+7,507,12099,Götzstr.  19-21
+7,508,12099,Holzmannstr.  7
+7,509,12099,Tempelhofer Damm  165
+7,510,12105,Seelbuschring  19
+7,511,12105,Markgrafenstr.  10
+7,512,12109,Wolfsburger Weg  13-19
+7,513,12105,Rathausstr.  27
+7,514,12105,Königstr.  32
+7,515,12105,Kaiserstr.  126
+7,601,12107,Marconistr.  4
+7,602,12107,Alt-Mariendorf  24-26
+7,603,12109,Westphalweg  1
+7,604,12109,Wolfsburger Weg  13-19
+7,605,12109,Wolfsburger Weg  13-19
+7,606,12107,Körtingstr.  45
+7,607,12107,Körtingstr.  45
+7,608,12109,Britzer Str.  91
+7,609,12277,Marienfelder Allee  104
+7,610,12107,Kruckenbergstr.  1
+7,611,12107,Wildspitzweg  12-48
+7,612,12107,Albulaweg  15-19
+7,613,12277,Marienfelder Allee  104
+7,614,12107,Grimmingweg  1B
+7,615,12107,Albulaweg  15-19
+7,701,12277,Alt-Marienfelde  52
+7,702,12277,Prechtlstr.  21-23
+7,703,12277,Culemeyerstr.  2
+7,704,12279,Erbendorfer Weg  13
+7,705,12279,Erbendorfer Weg  13
+7,706,12279,Waldsassener Str.  62
+7,707,12279,Waldsassener Str.  62
+7,708,12279,Tirschenreuther Ring  69
+7,709,12277,Alt-Marienfelde  52
+7,710,12277,Alt-Marienfelde  52
+7,711,12305,Krusauer Str.  39
+7,712,12305,Lichtenrader Damm  36
+7,713,12305,Dielingsgrund  35
+7,714,12305,Rackebüller Weg  70
+7,715,12309,Wiesbadener Str.  20
+7,801,12307,Franziusweg  114-128
+7,802,12307,Franziusweg  114-128
+7,803,12305,Halker Zeile  147
+7,804,12305,Halker Zeile  147
+7,805,12305,Grimmstr.  9-11
+7,806,12305,Barnetstr.  12
+7,807,12309,Nahariyastr.  13
+7,808,12309,Nahariyastr.  13
+7,809,12307,Mellener Str.  38-42
+7,810,12307,Mellener Str.  38-42
+7,811,12309,Nahariyastr.  13
+7,812,12307,Lortzingstr.  16
+7,813,12307,Briesingstr.  6
+7,814,12307,Horstwalder Str.  11-19
+7,815,12309,Kirchhainer Damm  46
+8,101,12043,Hobrechtstraße  76
+8,102,12043,Hobrechtstr.  76
+8,103,12043,Hobrechtstr.  76
+8,104,12043,Hobrechtstr.  76
+8,105,12043,Hobrechtstr.  76
+8,106,12045,Rütlistr.  41
+8,107,12045,Rütlistr.  41
+8,108,12045,Rütlistr.  41
+8,109,12047,Weserstr.  12
+8,110,12047,Weserstr.  12
+8,111,12045,Sonnenallee  79
+8,112,12045,Sonnenallee  79
+8,113,12045,Sonnenallee  79
+8,114,12045,Elbestr.  11
+8,115,12045,Elbestr.  11
+8,116,12045,Elbestr.  11
+8,117,12045,Elbestr.  11
+8,118,12059,Harzer Str.  73
+8,119,12059,Harzer Str.  73
+8,120,12059,Stuttgarter Str.  35
+8,121,12059,Stuttgarter Str.  35
+8,122,12059,Stuttgarter Str.  35
+8,123,12059,Stuttgarter Str.  35
+8,124,12055,Drorystr.  3
+8,125,12055,Drorystr.  3
+8,126,12055,Drorystr.  3
+8,127,12055,Drorystr.  3
+8,201,12049,Karlsgartenstr.  6
+8,202,12049,Karlsgartenstr.  6
+8,203,12049,Karlsgartenstr.  6
+8,204,12043,Karl-Marx-Str.  14
+8,205,12043,Karl-Marx-Str.  14
+8,206,12053,Boddinstr.  55
+8,207,12053,Boddinstr.  55
+8,208,12053,Boddinstr.  55
+8,209,12053,Boddinstr.  55
+8,210,12049,Schillerpromenade  35
+8,211,12049,Schillerpromenade  35
+8,212,12049,Schillerpromenade  35
+8,213,12049,Schillerpromenade  35
+8,214,12053,Kopfstr.  55
+8,215,12053,Kopfstr.  55
+8,216,12053,Kopfstr.  55
+8,217,12053,Kopfstr.  55
+8,218,12053,Jonasstr.  15
+8,219,12053,Jonasstr.  15
+8,220,12053,Jonasstr.  15
+8,221,12053,Jonasstr.  15
+8,222,12049,Leinestr.  37
+8,223,12049,Leinestr.  37
+8,224,12049,Leinestr.  37
+8,225,12049,Leinestr.  37
+8,226,12051,Emser Str.  133
+8,227,12051,Emser Str.  133
+8,301,12057,Dammweg  228
+8,302,12057,Dammweg  228
+8,303,12051,Silbersteinstr.  42
+8,304,12051,Silbersteinstr.  42
+8,305,12051,Mariendorfer Weg  69
+8,306,12051,Mariendorfer Weg  69
+8,307,12347,Wederstr.  49
+8,308,12347,Wederstr.  49
+8,309,12347,Wederstr.  49
+8,310,12057,Zwillingestr.  21
+8,311,12057,Hänselstr.  6
+8,312,12057,Hänselstr.  6
+8,313,12347,Rungiusstr.  46
+8,314,12347,Rungiusstr.  46
+8,315,12347,Rungiusstr.  46
+8,316,12347,Hannemannstr.  68
+8,317,12347,Hannemannstr.  68
+8,318,12347,Hannemannstr.  68
+8,319,12359,Buschkrugallee  63
+8,320,12359,Backbergstr.  37
+8,321,12359,Onkel-Bräsig-Str.  76
+8,322,12359,Onkel-Bräsig-Str.  76
+8,323,12359,Onkel-Bräsig-Str.  76
+8,401,12347,Mohriner Allee  137
+8,402,12347,Mohriner Allee  137
+8,403,12359,Parchimer Allee  109
+8,404,12359,Parchimer Allee  109
+8,405,12359,Bruno-Taut-Ring  9C
+8,406,12359,Bruno-Taut-Ring  9C
+8,407,12359,Bruno-Taut-Ring  9C
+8,408,12349,Buckower Damm  176
+8,409,12349,Buckower Damm  176
+8,410,12351,Tischlerzeile  34
+8,411,12349,Breitunger Weg  1
+8,412,12349,Breitunger Weg  1
+8,413,12349,Hornblendeweg  2
+8,414,12349,Hornblendeweg  2
+8,415,12349,Hornblendeweg  2
+8,416,12349,Hornblendeweg  2
+8,417,12349,Haewererweg  35
+8,418,12349,Haewererweg  35
+8,419,12349,An den Achterhöfen  13
+8,420,12349,An den Achterhöfen  13
+8,421,12349,An den Achterhöfen  13
+8,422,12353,Hasenhegerweg  12
+8,423,12353,Hasenhegerweg  12
+8,424,12353,Wildhüterweg  5
+8,501,12359,Rohrdommelweg  1
+8,502,12359,Rohrdommelweg  1
+8,503,12359,Rohrdommelweg  1
+8,504,12359,Rohrdommelweg  1
+8,505,12359,Rohrdommelweg  1
+8,506,12351,Johannisthaler Chaussee  328
+8,507,12351,Johannisthaler Chaussee  328
+8,508,12351,Johannisthaler Chaussee  328
+8,509,12351,Johannisthaler Chaussee  328
+8,510,12351,Fritz-Erler-Allee  86
+8,511,12351,Fritz-Erler-Allee  86
+8,512,12351,Fritz-Erler-Allee  86
+8,513,12353,Hugo-Heimann-Str.  20
+8,514,12353,Hugo-Heimann-Str.  20
+8,515,12357,Efeuweg  34
+8,516,12357,Efeuweg  34
+8,517,12351,Rudower Str.  184
+8,518,12351,Rudower Str.  184
+8,519,12351,Rudower Str.  184
+8,520,12357,Efeuweg  34
+8,521,12353,Wutzkyallee  68
+8,522,12353,Wutzkyallee  68
+8,523,12353,Hugo-Heimann-Str.  20
+8,524,12353,Wutzkyallee  68
+8,525,12353,Wutzkyallee  68
+8,601,12353,Zwickauer Damm  22
+8,602,12353,Zwickauer Damm  22
+8,603,12353,Zwickauer Damm  22
+8,604,12353,Zwickauer Damm  22
+8,605,12357,Kornradenstr.  2
+8,606,12357,Kornradenstr.  2
+8,607,12355,Köpenicker Str.  148
+8,608,12355,Köpenicker Str.  148
+8,609,12355,Köpenicker Str.  148
+8,610,12355,Bildhauerweg  9
+8,611,12355,Bildhauerweg  9
+8,612,12355,Bildhauerweg  9
+8,613,12355,Groß-Ziethener Chaussee  73
+8,614,12355,Groß-Ziethener Chaussee  73
+8,615,12355,Groß-Ziethener Chaussee  73
+8,616,12355,Groß-Ziethener Chaussee  73
+8,617,12355,Neuhofer Str.  41
+8,618,12355,Pfarrer-Heß-Weg  3
+8,619,12355,Neuhofer Straße  41
+8,620,12355,Neuhofer Str.  41
+8,621,12355,Neuhofer Str.  41
+8,622,12355,Elfriede-Kuhr-Str.  17
+8,623,12355,Elfriede-Kuhr-Str.  17
+8,624,12355,Pfarrer-Heß-Weg  3
+8,625,12355,Pfarrer-Heß-Weg  3
+8,626,12355,Elfriede-Kuhr-Str.  17
+9,101,12435,Bouchéstr.  5
+9,102,12435,Bouchéstr.  5
+9,103,12435,Karl-Kunger-Str.  29
+9,104,12435,Karl-Kunger-Str.  29
+9,105,12435,Bouchéstr.  5
+9,106,12435,Neue Krugallee  4
+9,107,12435,Neue Krugallee  4
+9,108,12437,Willi-Sänger-Str.  1
+9,109,12437,Willi-Sänger-Str.  1
+9,110,12437,Willi-Sänger-Str.  1
+9,111,12437,Neue Krugallee  142
+9,112,12437,Hänselstr.  14
+9,113,12437,Hänselstr.  14
+9,114,12437,Kiefholzstr.  274
+9,115,12437,Radenzer Str.  16
+9,116,12437,Radenzer Str.  16
+9,117,12437,Radenzer Str.  16
+9,118,12439,Schnellerstr.  31
+9,119,12439,Schnellerstr.  31
+9,201,12487,Südostallee  212
+9,202,12487,Engelhardstr.  18
+9,203,12487,Heubergerweg  37
+9,204,12487,Engelhardstr.  18
+9,205,12487,Sterndamm  102
+9,206,12487,Springbornstr.  248a
+9,207,12487,Springbornstr.  248A
+9,208,12487,Springbornstr.  248A
+9,209,12487,Springbornstr.  248A
+9,210,12439,Rudower Str.  7
+9,211,12439,Rudower Str.  7
+9,212,12439,Rudower Str.  7
+9,213,12459,Helmholtzstr.  37
+9,214,12459,Helmholtzstr.  37
+9,215,12459,Zeppelinstr.  76-80
+9,216,12459,Antoniuskirchstr.  3-5
+9,217,12459,Zeppelinstr.  76-80
+9,218,12459,Wilhelminenhofstr.  75A
+9,219,12459,Kottmeierstr.  2-4
+9,220,12459,Kottmeierstr.  2-4
+9,221,12459,Kottmeierstr.  2-4
+9,301,12489,Waldstr.  7
+9,302,12489,Florian-Geyer-Str.  87
+9,303,12489,Florian-Geyer-Str.  87
+9,304,12489,Dörpfeldstr.  54
+9,305,12489,Radickestr.  43
+9,306,12489,Radickestr.  43
+9,307,12489,Radickestr.  43
+9,308,12524,Köpenicker Str.  31
+9,309,12524,Köpenicker Str.  31
+9,310,12524,Köpenicker Str.  31
+9,311,12524,Sachsenstr.  22
+9,312,12524,Mohnweg  20
+9,313,12524,Ehrenfelder Str.  25
+9,314,12524,Nippeser Str.  20
+9,315,12524,Köpenicker Str.  31
+9,316,12524,Mohnweg  20
+9,317,12524,Mohnweg  20
+9,318,12524,Ortolfstr.  182
+9,319,12524,Uranusstr.  15-17
+9,320,12524,Uranusstr.  15-17
+9,401,12526,Dahmestr.  36
+9,402,12526,Dahmestr.  36
+9,403,12526,Schulzendorfer Str.  112
+9,404,12526,Dahmestr.  33
+9,405,12526,Dahmestr.  33
+9,406,12555,Oberspreestr.  173
+9,407,12555,Oberspreestr.  173
+9,408,12557,Glienicker Str.  24-30
+9,409,12557,Glienicker Str.  24-30
+9,410,12557,Glienicker Str.  24-30
+9,411,12527,Fuchsbau  26
+9,412,12527,Regattastr.  84
+9,413,12527,Regattastr.  141
+9,414,12527,Rohrwallallee  11
+9,415,12527,Finkengasse  7
+9,416,12527,Adlergestell  776
+9,417,12527,Fährallee  31
+9,418,12555,Lindenstr.  1
+9,419,12555,Parrisiusstr.  4-14
+9,420,12555,Borgmannstr.  3
+9,421,12555,Borgmannstr.  3
+9,422,12555,Friedrichshagener Str.  8P
+9,501,12555,Alter Markt  2
+9,502,12559,Wendenschloßstr.  35
+9,503,12559,Pablo-Neruda-Str.  6-7
+9,504,12559,Pablo-Neruda-Str.  6-7
+9,505,12559,Birkenstr.  11
+9,506,12559,Alfred-Randt-Str.  56
+9,507,12559,Alfred-Randt-Str.  23
+9,508,12559,Alfred-Randt-Str.  56
+9,509,12557,Charlottenstr.  17C
+9,510,12559,Pablo-Neruda-Str.  6-7
+9,511,12557,Grüne Trift  23D
+9,512,12557,Köpenzeile  123
+9,513,12557,Köpenzeile  123
+9,514,12557,Grüne Trift  169
+9,515,12557,Wendenschloßstr.  404
+9,516,12559,Alt-Müggelheim  21
+9,517,12559,Odernheimer Str.  28
+9,518,12559,Alt-Müggelheim  21
+9,601,12587,Werlseestr.  39A
+9,602,12587,Aßmannstr.  63
+9,603,12587,Rahnsdorfer Str.  35
+9,604,12587,Rahnsdorfer Str.  35
+9,605,12587,Aßmannstr.  11
+9,606,12587,Peter-Hille-Str.  7
+9,607,12587,Peter-Hille-Str.  7
+9,608,12587,Stillerzeile  123
+9,609,12555,Mittelheide  49
+9,610,12555,Mittelheide  49
+9,611,12555,Mittelheide  49
+9,612,12555,Wongrowitzer Steig  37
+9,613,12555,Wongrowitzer Steig  37
+9,614,12555,Hoernlestr.  80
+9,615,12589,Fürstenwalder Allee  182
+9,616,12589,Fürstenwalder Allee  1
+9,617,12589,Fürstenwalder Allee  182
+9,618,12589,Fahlenbergstr.  35
+9,619,12589,Fürstenwalder Allee  362
+10,101,12689,Schorfheidestr.  42
+10,102,12689,Rosenbecker Str.  25
+10,103,12689,Märkische Allee  414
+10,104,12689,Geraer Ring  54
+10,105,12689,Geraer Ring  2
+10,106,12689,Geraer Ring  2
+10,107,12689,Wörlitzer Str.  31
+10,108,12689,Wörlitzer Str.  31
+10,109,12689,Borkheider Str.  28
+10,110,12689,Borkheider Str.  28
+10,111,12689,Flämingstr.  16
+10,112,12687,Schleusinger Str.  17
+10,113,12687,Liebensteiner Str.  24
+10,114,12687,Schleusinger Str.  17
+10,115,12687,Schwarzburger Str.  10
+10,116,12679,Glambecker Ring  90
+10,117,12679,Glambecker Ring  90
+10,118,12679,Parsteiner Ring  24
+10,119,12679,Glambecker Ring  90
+10,120,12679,Parsteiner Ring  24
+10,201,12679,Jan-Petersen-Str.  18B
+10,202,12687,Sella-Hasse-Str.  19
+10,203,12687,Sella-Hasse-Str.  25
+10,204,12687,Sella-Hasse-Str.  25
+10,205,12687,Sella-Hasse-Str.  25
+10,206,12679,Jan-Petersen-Str.  18B
+10,207,12679,Marzahner Promenade  54
+10,208,12679,Marzahner Promenade  38
+10,209,12679,Stolzenhagener Str.  9
+10,210,12679,Zühlsdorfer Str.  20
+10,211,12679,Marzahner Promenade  11
+10,212,12685,Bruno-Baum-Str.  60
+10,213,12681,Martha-Arendsee-Str.  15
+10,214,12685,Alt-Marzahn  59A
+10,215,12685,Amanlisweg  40
+10,216,12685,Amanlisweg  40
+10,217,12685,Kienbergstr.  59
+10,218,12685,Kienbergstr.  59
+10,219,12685,Kienbergstr.  59
+10,220,12679,Blumberger Damm  156
+10,301,12685,Altlandsberger Platz  2
+10,302,12629,Ludwigsfelder Str.  7
+10,303,12629,Mittenwalder Str.  5
+10,304,12629,Mittenwalder Str.  5
+10,305,12627,Kastanienallee  118
+10,306,12629,Kyritzer Str.  103
+10,307,12629,Kyritzer Str.  103
+10,308,12627,Cottbusser Str.  23
+10,309,12629,Alte Hellersdorfer Str.  7
+10,310,12627,Cottbusser Str.  23
+10,311,12627,Kastanienallee  53
+10,312,12627,Tangermünder Str.  127
+10,313,12627,Tangermünder Str.  2A
+10,314,12627,Naumburger Ring  19
+10,315,12627,Zerbster Str.  101
+10,316,12627,Eilenburger Str.  4
+10,317,12627,Adele-Sandrock-Str.  73
+10,318,12627,Mark-Twain-Str.  27
+10,319,12627,Adele-Sandrock-Str.  73
+10,320,12627,Louis-Lewin-Str.  40C
+10,401,12681,Murtzaner Ring  37
+10,402,12681,Murtzaner Ring  15
+10,403,12681,Allee der Kosmonauten  123
+10,404,12681,Murtzaner Ring  37
+10,405,12681,Märkische Allee  68
+10,406,12681,Marchwitzastr.  47
+10,407,12683,Allee der Kosmonauten  134
+10,408,12683,Cecilienstr.  81
+10,409,12683,Schulstr.  11
+10,410,12683,Blumberger Damm  6
+10,411,12683,Burghardweg  44
+10,412,12683,Buckower Ring  62
+10,413,12683,Schulstr.  11
+10,414,12683,Distelfalterstr.  41
+10,415,12683,Elsterwerdaer Platz  3
+10,416,12683,Alberichstr.  24
+10,417,12683,Alberichstr.  24
+10,418,12683,Köpenicker Str.  302
+10,419,12681,Marzahner Chaussee  165
+10,501,12623,Erich-Baron-Weg  118
+10,502,12623,Hultschiner Damm  140
+10,503,12623,Hultschiner Damm  219
+10,504,12623,Hultschiner Damm  219
+10,505,12623,Hultschiner Damm  98
+10,506,12623,Hultschiner Damm  98
+10,507,12621,Ulmenstr.  79
+10,508,12621,Ulmenstr.  79
+10,509,12621,Ulmenstr.  79
+10,510,12621,Dorfstr.  1
+10,511,12621,Adolfstr.  25
+10,512,12623,An der Schule  13
+10,513,12623,An der Schule  13
+10,514,12623,Florastr.  1
+10,515,12623,Feldrain  47
+10,516,12623,Feldrain  47
+10,517,12623,Feldrain  47
+10,601,12619,Maxie-Wander-Str.  56
+10,602,12619,Erich-Kästner-Str.  64
+10,603,12619,Erich-Kästner-Str.  64
+10,604,12619,Kummerower Ring  42
+10,605,12619,Kummerower Ring  44
+10,606,12619,Lily-Braun-Str.  54
+10,607,12619,Am Baltenring  74
+10,608,12619,Teterower Ring  79
+10,609,12619,Teterower Ring  79
+10,610,12619,Boizenburger Str.  52
+10,611,12619,Bansiner Str.  21
+10,612,12621,Hellersdorfer Str.  27
+10,613,12619,Wernerstr.  48
+10,614,12619,Wernerstr.  48
+10,615,12627,Geithainer Str.  12
+10,616,12627,Nossener Str.  85
+10,617,12627,Klingenthaler Str.  32
+10,618,12627,Klingenthaler Str.  32
+11,101,13059,Egon-Erwin-Kisch-Str.  1a
+11,102,13059,Straße 3  21
+11,103,13057,Ahrensfelder Chaussee  41
+11,104,13059,Schweriner Ring  27
+11,105,13059,Woldegker Str.  21
+11,106,13059,Woldegker Str.  5
+11,107,13059,Prendener Str.  15
+11,108,13059,Prendener Str.  29
+11,109,13059,Prendener Str.  29
+11,110,13051,Wustrower Str.  28
+11,111,13051,Wustrower Str.  39-41
+11,112,13051,Wustrower Str.  26
+11,113,13051,Wustrower Str.  26
+11,114,13057,Warnitzer Str.  8
+11,115,13057,Randowstr.  45
+11,116,13057,Randowstr.  45
+11,117,13057,Falkenberger Chaussee  120-122
+11,118,13057,Wartiner Str.  23
+11,119,13057,Biesenbrower Str.  61
+11,120,13057,Wartiner Str.  23
+11,201,13051,Malchower Chaussee  2
+11,202,13051,Am Berl  25
+11,203,13051,Ribnitzer Str.  1b
+11,204,13051,Darßer Str.  97
+11,205,13051,Darßer Str.  97
+11,206,13051,Darßer Str.  103
+11,207,13051,Barther Str.  27
+11,208,13051,Barther Str.  27
+11,209,13053,Rüdickenstr.  29
+11,210,13053,Matenzeile  2-4
+11,211,13053,Am Breiten Luch  19
+11,212,13053,Degnerstr.  71-77
+11,213,13053,Malchower Weg  54
+11,214,13053,Anna-Ebermann-Str.  26
+11,215,13053,Degnerstr.  71-77
+11,216,13053,Degnerstr.  22
+11,217,13055,Heckelberger Ring  2
+11,218,13053,Degnerstr.  11
+11,219,13055,Schöneicher Str.  10a
+11,220,13055,Werneuchener Str.  27
+11,221,13055,Werneuchener Str.  14
+11,301,10369,Judith-Auer-Str.  8
+11,302,10369,Judith-Auer-Str.  8
+11,303,10369,Judith-Auer-Str.  8
+11,304,13055,Sandinostr.  10
+11,305,13055,Sandinostr.  10
+11,306,13055,Neustrelitzer Str.  34b
+11,307,13055,Werneuchener Str.  15
+11,308,13055,Werneuchener Str.  15b
+11,309,13055,Werneuchener Str.  15
+11,310,13055,Joachimsthaler Str.  2
+11,311,13055,Liebenwalder Str.  20-22
+11,312,13055,Schleizer Str.  62
+11,313,13055,Ferdinand- Schultze- Straße  55
+11,314,10369,Paul-Junius-Str.  71
+11,315,10367,Bernhard-Bästlein-Str.  56
+11,316,10367,Paul-Junius-Str.  15
+11,317,10367,Bernhard-Bästlein-Str.  22
+11,318,10367,Bernhard-Bästlein-Str.  44
+11,319,10315,Allee der Kosmonauten  18
+11,320,10315,Rhinstr.  9
+11,321,10315,Rhinstr.  9
+11,401,10369,Franz-Jacob-Str.  8
+11,402,10369,Franz-Jacob-Str.  8
+11,403,10369,Franz-Jacob-Str.  8
+11,404,10369,Franz-Jacob-Str.  8
+11,405,10369,Alfred-Jung-Str.  19
+11,406,10367,Möllendorffstr.  66-67
+11,407,10369,Alfred-Jung-Str.  19
+11,408,10367,Ruschestr.  45
+11,409,10367,Alfred-Jung-Str.  17
+11,410,10367,Ruschestr.  45
+11,411,10367,Am Stadtpark  5
+11,412,10367,Möllendorffstr.  102-103
+11,413,10365,Atzpodienstr.  19
+11,414,10365,Gotlindestr.  36-37
+11,415,10367,Normannenstr.  1-2
+11,416,10365,Wotanstr.  2-3
+11,417,10365,Hagenstr.  57
+11,418,10365,Schulze-Boysen-Str.  28
+11,419,10365,Harnackstr.  17
+11,420,10365,Schulze-Boysen-Str.  20
+11,421,10365,Schulze-Boysen-Str.  38
+11,422,10365,Harnackstr.  17
+11,501,10315,Gensinger Str.  58
+11,502,10315,Alt-Friedrichsfelde  66
+11,503,10315,Gensinger Straße  103
+11,504,10315,Einbecker Str.  85
+11,505,10315,Einbecker Str.  85
+11,506,10315,Einbecker Str.  85
+11,507,10315,Massower Str.  37
+11,508,10315,Alfred-Kowalke-Str.  25
+11,509,10315,Alfred-Kowalke-Str.  25
+11,510,10315,Lincolnstr.  67
+11,511,10315,Rummelsburger Straße  21
+11,512,10317,Lückstr.  60-63
+11,513,10315,Lincolnstr.  67
+11,514,10319,Sewanstr.  43
+11,515,10315,Rummelsburger Str.  21
+11,516,10315,Rummelsburger Str.  21
+11,517,10317,Fischerstr.  36
+11,518,10317,Fischerstr.  36
+11,519,10317,Lückstr.  60-63
+11,601,10319,Volkradstr.  28
+11,602,10319,Volkradstr.  28
+11,603,10319,Erich-Kurz-Str.  6-10
+11,604,10319,Sewanstr.  43
+11,605,10319,Sewanstr.  184
+11,606,10319,Sewanstr.  184
+11,607,10319,Sewanstr.  235
+11,608,10319,Sewanstr.  184
+11,609,10319,Sewanstr.  235
+11,610,10318,Lisztstraße  6
+11,611,10318,Hönower Str.  30a
+11,612,10318,Römerweg  120
+11,613,10318,Lisztstraße  6
+11,614,10318,Treskowallee  112
+11,615,10318,Rheinpfalzallee  46-66
+11,616,10318,Karl-Egon-Str.  4c
+11,617,10318,Treskowallee  112
+11,618,10318,Ehrenfelsstr.  36
+11,619,10317,Hauptstr.  6T
+11,620,10318,Ehrlichstr.  63
+11,621,10318,Ehrlichstr.  63
+11,622,10318,Eginhardstr.  9
+12,101,13409,Büchsenweg  23A
+12,102,13409,Büchsenweg  23A
+12,103,13407,Walliser Str.  10
+12,104,13407,Walliser Str.  10
+12,105,13409,Breitkopfstr.  66-80
+12,106,13409,Breitkopfstr.  66-80
+12,107,13409,Büdnerring  48
+12,108,13409,Büdnerring  48
+12,109,13409,Büdnerring  48
+12,110,13409,Hoppestr.  1-6
+12,111,13409,Hoppestr.  1-6
+12,112,13407,Teichstr.  65
+12,113,13407,Teichstr.  41
+12,114,13407,Teichstr.  41
+12,115,13407,Thurgauer Str.  39-45
+12,116,13407,Thurgauer Str.  39-45
+12,117,13407,Baseler Str.  4-6
+12,118,13407,Stargardtstr.  3
+12,119,13409,Breitkopfstr.  66-80
+12,120,13409,Hoppestr.  1-6
+12,121,13409,Kühleweinstr.  5
+12,122,13407,Baseler Str.  4-6
+12,123,13409,Hoppestr.  1-6
+12,124,13409,Kühleweinstr.  5
+12,125,13409,Kühleweinstr.  5
+12,126,13409,Kühleweinstr.  5
+12,201,13437,Wilhelm-Gericke-Str.  7-13
+12,202,13437,Wilhelm-Gericke-Str.  7-13
+12,203,13507,Ascheberger Weg  8A
+12,204,13507,Ascheberger Weg  8A
+12,205,13507,Ascheberger Weg  8A
+12,206,13509,Holzhauser Str.  11-19
+12,207,13403,Foxweg  15
+12,208,13403,Foxweg  15
+12,209,13403,Auguste-Viktoria-Allee  37
+12,210,13403,Kienhorststr.  67-79
+12,211,13407,Humboldtstr.  8-13
+12,212,13403,Kienhorststr.  67-79
+12,213,13403,Kienhorststr.  67-79
+12,214,13407,Humboldtstr.  8-13
+12,215,13403,Auguste-Viktoria-Allee  95
+12,216,13403,Auguste-Viktoria-Allee  37
+12,217,13403,Auguste-Viktoria-Allee  95
+12,218,13403,Gotthardstr.  96
+12,219,13403,Gotthardstr.  96
+12,220,13403,Klixstr.  31D
+12,221,13403,Auguste-Viktoria-Allee  37
+12,222,13405,Uranusweg  34
+12,223,13629,Schulweg  1
+12,224,13405,Uranusweg  34
+12,225,13437,Wilhelm-Gericke-Str.  7-13
+12,301,13503,Kurzebracker Weg  40-46
+12,302,13503,Stolpmünder Weg  45
+12,303,13503,Stolpmünder Weg  45
+12,304,13507,Adelheidallee  5-7
+12,305,13503,Schulzendorfer Str.  99-101
+12,306,13503,Schulzendorfer Str.  99-101
+12,307,13503,Schulzendorfer Str.  99-101
+12,308,13503,Dambockstr.  76
+12,309,13503,Dambockstr.  76
+12,310,13503,Alt-Heiligensee  52
+12,311,13503,Schulzendorfer Str.  99-101
+12,312,13503,Heiligenseestr.  61-65
+12,313,13505,Gerlindeweg  11-23
+12,314,13507,Alt-Tegel  37
+12,315,13505,Gerlindeweg  11-23
+12,316,13507,Alt-Tegel  43
+12,317,13507,Alt-Tegel  43
+12,318,13505,Gerlindeweg  11-23
+12,319,13507,Neheimer Str.  10
+12,320,13507,Namslaustr.  49-57
+12,321,13507,Namslaustr.  49-57
+12,322,13507,Namslaustr.  49-57
+12,323,13505,Gerlindeweg  11-23
+12,324,13599,Im Saatwinkel  7-9
+12,401,13469,Artemisstr.  22-26
+12,402,13469,Artemisstr.  22-26
+12,403,13469,Waldshuter Zeile  6
+12,404,13469,Waldshuter Zeile  6
+12,405,13469,Waldshuter Zeile  6
+12,406,13509,Hatzfeldtallee  2-4
+12,407,13509,Erholungsweg  64
+12,408,13469,Place Molière  4
+12,409,13437,Cyclopstr.  3
+12,410,13435,Wittenauer Str.  18-20
+12,411,13435,Wittenauer Str.  18-20
+12,412,13509,Tile-Brügge-Weg  63
+12,413,13437,Eichborndamm  215-239
+12,414,13437,Eichborndamm  276-284
+12,415,13509,Hatzfeldtallee  2-4
+12,416,13509,Ziekowstr.  80-88
+12,417,13437,Alt-Wittenau  71-72
+12,418,13437,Eichborndamm  276-284
+12,419,13437,Alt-Wittenau  8-12
+12,420,13509,Ziekowstr.  80-88
+12,421,13509,Miraustr.  100-118
+12,422,13509,Klinnerweg  27
+12,423,13509,Klinnerweg  27
+12,424,13403,Eichborndamm  208
+12,425,13437,Rathauspromenade  75
+12,426,13403,Eichborndamm  208
+12,501,13469,Am Vierrutenberg  59-65
+12,502,13469,Zabel-Krüger-Damm  227
+12,503,13469,Am Vierrutenberg  2
+12,504,13435,Senftenberger Ring  97
+12,505,13435,Senftenberger Ring  43-45
+12,506,13435,Senftenberger Ring  43-45
+12,507,13435,Senftenberger Ring  43-45
+12,508,13435,Senftenberger Ring  43-45
+12,509,13439,Treuenbrietzener Str.  26
+12,510,13439,Wilhelmsruher Damm  90-94
+12,511,13435,Senftenberger Ring  51
+12,512,13435,Senftenberger Ring  97
+12,513,13435,Finsterwalder Str.  52-54
+12,514,13435,Senftenberger Ring  97
+12,515,13435,Senftenberger Ring  27
+12,516,13435,Senftenberger Ring  27
+12,517,13435,Finsterwalder Str.  52-54
+12,518,13435,Finsterwalder Str.  52-54
+12,519,13439,Tornower Weg  26-34
+12,520,13439,Wilhelmsruher Damm  90-94
+12,521,13439,Tornower Weg  26-34
+12,522,13439,Wilhelmsruher Damm  142
+12,523,13439,Dannenwalder Weg  163-165
+12,524,13439,Wilhelmsruher Damm  90-94
+12,525,13439,Tornower Weg  26-34
+12,526,13439,Dannenwalder Weg  163-165
+12,601,13465,Invalidensiedlung  46
+12,602,13465,Gollanczstr.  18-24
+12,603,13465,Wildkanzelweg  28
+12,604,13465,Laurinsteig  39-45
+12,605,13465,Laurinsteig  39-45
+12,606,13465,Gollanczstr.  18-24
+12,607,13465,Laurinsteig  39-45
+12,608,13465,Sigismundkorso  68-70
+12,609,13465,Benediktinerstr.  11-19
+12,610,13465,Zeltinger Str.  6
+12,611,13465,Sigismundkorso  68-70
+12,612,13467,Frohnauer Str.  74-80
+12,613,13465,Zeltinger Str.  6
+12,614,13467,Frohnauer Str.  74-80
+12,615,13467,Olafstr.  32-34
+12,616,13467,Berliner Str.  105-107
+12,617,13467,Heidenheimer Str.  53-54
+12,618,13467,Olafstr.  32-34
+12,619,13467,Seebadstr.  42-43
+12,620,13467,Heidenheimer Str.  53-54
+12,621,13467,Fichtestr.  1-3
+12,622,13467,Fichtestr.  1-3
+12,623,13467,Fichtestr.  1-3
+12,624,13509,Bonifaziusstr.  16-18
+12,625,13509,Waidmannsluster Damm  79

@@ -5,20 +5,20 @@ import org.springframework.data.annotation.Id;
 
 public class Wahlbezirk {
 
-	@Id
-	String id;
+    @Id
+    String id;
 
-	public Bezirk bezirk;
+    public Bezirk bezirk = new Bezirk();
 
-	public Integer nummer;
+    public Integer nummer = -1;
 
-	public Integer plz;
+    public Integer plz = -1;
 
-	public String anschrift;
+    public String anschrift = "-";
 
-	@Override
-	public String toString() {
-		return ReflectionToStringBuilder.toString(this);
-	}
+    @Override
+    public String toString() {
+        return ReflectionToStringBuilder.toString(this);
+    }
 
 }

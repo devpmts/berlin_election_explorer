@@ -7,18 +7,18 @@ import org.springframework.data.annotation.Id;
 
 public class ElectionResult {
 
-	@Id
-	String _id;
+    @Id
+    String _id;
 
-	public Wahlbezirk wahlbezirk;
+    public Wahlbezirk wahlbezirk;
 
-	// public Election election;
+    // public Election election;
 
-	public Map<String, Integer> results;
+    public Map<String, Object> results;
 
-	@Override
-	public String toString() {
-		return ReflectionToStringBuilder.toString(this);
-	}
+    @Override
+    public String toString() {
+        return ReflectionToStringBuilder.toString(this);
+    }
 
 }

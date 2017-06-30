@@ -12,35 +12,29 @@ import com.devpmts.kolporit.repository.ElectionResultRepository;
 @Component
 public class ElectionResultGrid extends KolporitGrid<ElectionResult> {
 
-	@Autowired
-	ElectionRepository electionRepo;
+    @Autowired
+    ElectionRepository electionRepo;
 
-	@Autowired
-	ElectionResultRepository electionResultRepo;
+    @Autowired
+    ElectionResultRepository electionResultRepo;
 
-	@Autowired
-	Election election;
+    @Autowired
+    Election election;
 
-	public void createColumns() {
-		election = electionRepo.findAll().get(0);
-		election.parties
-				.keySet()
-				.stream()
-				.forEach(
-						partyName -> getContainerDataSource().addContainerProperty(partyName,
-								Integer.class, null));
-	}
+    public void createColumns() {
+        election = electionRepo.findAll().get(0);
+        election.parties.keySet().stream().forEach(partyName -> getContainerDataSource().addContainerProperty(partyName, Object.class, null));
+    }
 
-	@Override
-	Object[] createRowObjectArray(ElectionResult electionResult) {
-		Object[] resultValues = election.parties.keySet().stream()
-				.map(partyName -> electionResult.results.get(partyName)).toArray();
-		return resultValues;
-	}
+    @Override
+    Object[] createRowObjectArray(ElectionResult electionResult) {
+        Object[] resultValues = election.parties.keySet().stream().map(partyName -> electionResult.results.get(partyName)).toArray();
+        return resultValues;
+    }
 
-	@Override
-	protected CrudRepository<ElectionResult, String> getRepo() {
-		return electionResultRepo;
-	}
+    @Override
+    protected CrudRepository<ElectionResult, String> getRepo() {
+        return electionResultRepo;
+    }
 
 }
