@@ -8,7 +8,7 @@ import org.springframework.data.repository.CrudRepository;
 
 import au.com.bytecode.opencsv.CSVReader;
 
-public interface DevpmtsSpringUtil {
+public interface KolporitCsvUtil {
 
     static <E> void readAndPersistFromCsv(String filename, Function<String[], E> converter, CrudRepository<E, ?> repo) {
         try (CSVReader reader = new CSVReader(new FileReader(filename), ',', '"', 1)) {

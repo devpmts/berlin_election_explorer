@@ -28,7 +28,7 @@ import com.devpmts.kolporit.repository.ElectionRepository;
 import com.devpmts.kolporit.repository.ElectionResultRepository;
 import com.devpmts.kolporit.repository.PartyRepository;
 import com.devpmts.kolporit.repository.WahlbezirkRepository;
-import com.devpmts.util.DevpmtsSpringUtil;
+import com.devpmts.util.KolporitCsvUtil;
 import com.rabbitmq.tools.json.JSONReader;
 
 import lombok.extern.slf4j.Slf4j;
@@ -116,7 +116,7 @@ public class KolporitDataImporter {
     }
 
     private void importWahlbezirke() {
-        DevpmtsSpringUtil.readAndPersistFromCsv(WAHLBEZIRKE_FILE.getPath(), values -> {
+        KolporitCsvUtil.readAndPersistFromCsv(WAHLBEZIRKE_FILE.getPath(), values -> {
             Wahlbezirk wahlbezirk = new Wahlbezirk();
             int bezirkNummer = Integer.parseInt(values[0]);
             wahlbezirk.bezirk = bezirkRepository.findByBezirkNummer(bezirkNummer).get(0);
@@ -137,7 +137,7 @@ public class KolporitDataImporter {
     }
 
     static File getFile(String fileName) {
-        URL resource = Object.class.getClassLoader().getResource(fileName);
+        URL resource = KolporitDataImporter.class.getClassLoader().getResource(fileName);
         if (resource == null) {
             System.err.println(fileName + " not found.");
             return null;

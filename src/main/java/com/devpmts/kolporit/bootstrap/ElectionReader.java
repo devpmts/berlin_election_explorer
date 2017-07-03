@@ -20,7 +20,7 @@ import com.devpmts.kolporit.repository.ElectionRepository;
 import com.devpmts.kolporit.repository.ElectionResultRepository;
 import com.devpmts.kolporit.repository.PartyRepository;
 import com.devpmts.kolporit.repository.WahlbezirkRepository;
-import com.devpmts.util.DevpmtsSpringUtil;
+import com.devpmts.util.KolporitCsvUtil;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -61,7 +61,7 @@ public class ElectionReader {
     }
 
     private void createHeader(File electionFile) {
-        csvHeader = DevpmtsSpringUtil.readFirstLineFromCsv(electionFile.getPath());
+        csvHeader = KolporitCsvUtil.readFirstLineFromCsv(electionFile.getPath());
         for (int i = 0; i < csvHeader.length; i++) {
             csvHeader[i] = csvHeader[i].toUpperCase();
         }
@@ -77,7 +77,7 @@ public class ElectionReader {
             return electionResult;
         };
         log.info("reading file " + electionFile);
-        DevpmtsSpringUtil.readAndPersistFromCsv(electionFile.getPath(), converter, electionResultRepo);
+        KolporitCsvUtil.readAndPersistFromCsv(electionFile.getPath(), converter, electionResultRepo);
         log.info("saving election data");
         election.electionResults = electionResults;
         electionRepo.save(election);
